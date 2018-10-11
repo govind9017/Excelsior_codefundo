@@ -2,8 +2,8 @@ Team Name: Excelsior
 
 College: IIT Roorkee
 
-Team Members: Govind Haldiya
-              Priyank Jain
+Team Members: Govind Haldiya, 
+              Priyank Jain, 
               Saurabh Shubham
 
 Codefundo++ Hackathon (How to save lives and prevent economic losses from Natural Disasters)
