@@ -6,7 +6,8 @@ Team Members: Govind Haldiya
 
 Codefundo++ Hackathon (How to save lives and prevent economic losses from Natural Disasters)
 
-Our Submission:-
+Idea for Codefundo++ :-
+
 Natural disasters can strike upon any time without people being prepared for it leading to a major loss of life and causing disruption.
 Predicting these disasters is a task that is being researched by a lot of people and organizations.
 Being prepared for disasters can prevent a substantial loss of humankind.
