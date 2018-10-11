@@ -1,5 +1,5 @@
-   Team Name: Excelsior
-     College: IIT Roorkee
+Team Name: Excelsior
+College: IIT Roorkee
 Team Members: Govind Haldiya
               Priyank Jain
               Saurabh Shubham
